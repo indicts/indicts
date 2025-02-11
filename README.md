@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luke Brant (aka Indicts)</h1>
 <h3 align="center">A developer from Lithuania 🇱🇹</h3>
 
-- 🔭 I’m currently working on removeme
+- 🔭 I’m currently working on untrace
 
 - 🌱 I’m currently learning **C++, Reversing, and Game Development**
 
